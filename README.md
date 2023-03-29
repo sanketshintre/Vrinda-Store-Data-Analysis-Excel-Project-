@@ -5,20 +5,20 @@ In this project I did Data Analysis for Vrinda Store in Excel.
 Objective - Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
 
 Sample Questions-
-1.Compare the sales and orders using single chart
-2.Which month got the highest sales and orders?
-3.Who purchased more- men or women in 2022?
-4.What are different order status in 2022?
-5.List top 10 states contributing to the sales?
-6.Relation between age and gender based on number
-7.Which channel is contributing to maximum sales?
-8.Highest selling category?
+Compare the sales and orders using single chart
+Which month got the highest sales and orders?
+Who purchased more- men or women in 2022?
+What are different order status in 2022?
+List top 10 states contributing to the sales?
+Relation between age and gender based on number
+Which channel is contributing to maximum sales?
+Highest selling category?
 
 Sample Insights-
-1.Women are more likely to buy compared to men (~65%)
-2.Maharashtra, Karnataka and Uttar Pradesh are the top 3.
-3.Adult age group (30-49 yrs) is max contributing (~50%)
-4.Amazon, Flipkart and Myntra channels are max contribution.
+Women are more likely to buy compared to men (~65%)
+Maharashtra, Karnataka and Uttar Pradesh are the top 3.
+Adult age group (30-49 yrs) is max contributing (~50%)
+Amazon, Flipkart and Myntra channels are max contribution.
 
 Screenshots -
 <img width="960" alt="2023-03-29 (4)" src="https://user-images.githubusercontent.com/123626990/228437868-20a59e98-d5c8-4f85-9549-d2f21d8c22bc.png">
